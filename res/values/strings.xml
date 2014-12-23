@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MY App</string>
+    <string name="Chat">Chat</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_second">Second</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="FAQ">FAQ</string>
+    <string name="Notify">Notify</string>
+    <string name="Conv">Conv</string>
+    <string name="title_activity_faq">FAQ</string>
+    <string name="getAll">All_FAQ</string>
+    <string name="selectedSection">Slt_FAQ</string>
+    <string name="getsingle">Single_FAQ</string>
+    <string name="Selected_prompt">Select</string>
+    <string name="All_FAQ">List of FAQs</string>
+    <string name="getsingleFAQ">Single FAQ</string>
+    <string name="title_activity_notify">Notify</string>
+    <string name="title_activity_conversation">Conversation</string>
+    <string name="textview">TextView</string>
+    <string name="Bconv">Send</string>
+    <string name="Single">Single</string>
+    <string name="Select">FAQs by Section</string>
+    <string name="search">Search</string>
+    <string name="title_activity_single">Single</string>
+    <string name="singlefaq">Single FAQ</string>
+    <string name="message_text">message text</string>
+    <string name="title_activity_conversation_status">ConversationStatus</string>
+    <string name="Choose_Conver">Choose your Conversation</string>
+    <string name="New_Conversation">New Conversation</string>
+    <string name="Old_Conversation">Old Conversation</string>
+    <string name="title_activity_registration">Registration</string>
+    <string name="Welcome">Welcome</string>
+    <string name="Submit">Submit</string>
+    <string name="first_name_">First Name*</string>
+    <string name="email_id_">Email ID*</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="click_chat_to_submit">Click Chat to Submit</string>
+    <string name="last_name">Last Name</string>
+    <string name="your_company">Your Company</string>
+    <string name="title_activity_selection_menu">DFTLY</string>
+    <string name="Help"> How can we help you today?</string>
+    <string name="new_conversation">New Conversation</string>
+    <string name="title_activity_new_conversation">NewConversation</string>
+    <string name="title_activity_app__registration">App_Registration</string>
+    <string name="App_registration">Register</string>
+    <string name="Custom_object">Custom_Object</string>
+    <string name="title_activity_custom_object">Custom_object</string>
+    <string name="title_activity_myapp">My app</string>
+    <string name="title_activity_my__app">My app</string>
+    <string name="title_activity_funcationality">Funcationality</string>
+    <string name="title_activity_func">Func</string>
+    <string name="title_activity_todo">Todo</string>
+    <string name="title_section1">My App</string>
+    <string name="title_section2">Support</string>
+    <string name="title_activity_faqs">FAQs</string>
+    <string name="action_search">Search</string>
+    <string name="title_activity_search__faqs">Search_FAQs</string>
+    <string name="facebook">Facebook</string>
+    <string name="title_activity_facebook_int">Facebook_int</string>
+
+</resources>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.impel_sampleapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="21" />
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:icon="@drawable/dftly_icon"
+        android:label="@string/app_name"
+        android:theme="@style/CustomActionBarTheme" >
+        <activity
+            android:name="com.example.chat.MainActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTask" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.chat.FAQ"
+            android:label="@string/title_activity_faq" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Notify"
+            android:label="@string/title_activity_notify" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Conversation"
+            android:label="@string/title_activity_conversation" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Single"
+            android:label="@string/title_activity_single" >
+        </activity>
+        <activity
+            android:name="com.example.chat.ConversationStatus"
+            android:label="@string/title_activity_conversation_status" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Registration"
+            android:label="@string/title_activity_registration" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Selection_menu"
+            android:label="@string/title_activity_selection_menu" >
+        </activity>
+        <activity
+            android:name="com.example.chat.App_Registration"
+            android:label="@string/title_activity_app__registration" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Custom_object"
+            android:label="@string/title_activity_custom_object" >
+        </activity>
+        <activity
+            android:name="com.example.chat.MY_APP"
+            android:label="@string/title_activity_my__app" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Func"
+            android:label="@string/title_activity_func" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Todo"
+            android:label="@string/title_activity_todo" >
+        </activity>
+        <activity
+            android:name="com.example.chat.FAQs"
+            android:label="@string/title_activity_faqs" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Search_FAQs"
+            android:label="@string/title_activity_search__faqs" >
+        </activity>
+        <activity
+            android:name="com.example.chat.Facebook_int"
+            android:label="@string/title_activity_facebook_int" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" 
+    tools:context="com.example.chat.FAQ" >
+
+   <item android:id="@+id/facebookid" 
+       android:orderInCategory="1" 
+       android:icon="@drawable/facebook" 
+       android:title="@string/facebook" 
+       android:showAsAction="ifRoom" 
+       yourapp:showAsAction="ifRoom"  
+       android:queryHint="Search" /> 
+
+</menu>
